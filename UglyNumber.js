@@ -22,5 +22,6 @@
    * If n is 1, we return true.
    * We create an array of 3 numbers: 2, 3, and 5.
    * We loop through the array of divisors.
+   * We check if n is divisible by the current divisor.
    * 
    */
