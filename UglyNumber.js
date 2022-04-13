@@ -10,7 +10,7 @@
 
     for (var i = 0; i < divisor.length; i++) {
         while (n && n % divisor[i] === 0) {
-            
+            n = Math.floor(n / divisor[i]);
           }
       }
   };
