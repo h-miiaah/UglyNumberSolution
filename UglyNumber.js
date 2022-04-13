@@ -23,5 +23,6 @@
    * We create an array of 3 numbers: 2, 3, and 5.
    * We loop through the array of divisors.
    * We check if n is divisible by the current divisor.
+   * If n is divisible by the current divisor, we divide n by the current divisor.
    * 
    */
