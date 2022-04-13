@@ -18,5 +18,6 @@
   
   /**
    * We start with a number n.
+   * If n is less than 1, we return false.
    * 
    */
