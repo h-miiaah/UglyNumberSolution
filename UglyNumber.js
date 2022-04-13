@@ -13,5 +13,6 @@
             n = Math.floor(n / divisor[i]);
           }
       }
+      return n === 1;
   };
   
