@@ -25,5 +25,6 @@
    * We check if n is divisible by the current divisor.
    * If n is divisible by the current divisor, we divide n by the current divisor.
    * We continue looping through the array of divisors until n is no longer divisible by any of the divisors.
+   * If n is 1 after the loop, we return true.
    * 
    */
